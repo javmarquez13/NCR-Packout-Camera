@@ -1,0 +1,132 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="NCR_Packout_Camera.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="CameraID_1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Not configured</Value>
+    </Setting>
+    <Setting Name="CameraID_2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Not configured</Value>
+    </Setting>
+    <Setting Name="SNLength_item" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">8</Value>
+    </Setting>
+    <Setting Name="LockSN" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ValidatePrefix" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Prefix" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="VideoTime_1" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="SNLength" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">11</Value>
+    </Setting>
+    <Setting Name="CamActive_1" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="CamActive_2" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="CamActive_3" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="CamActive_4" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="CamActive_5" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="CameraID_3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Not configured</Value>
+    </Setting>
+    <Setting Name="CameraID_4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Not configured</Value>
+    </Setting>
+    <Setting Name="CameraID_5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Not configured</Value>
+    </Setting>
+    <Setting Name="CamAuto_1" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="CamAuto_2" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="CamAuto_3" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="CamAuto_4" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="CamAuto_5" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="OutputPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\\\\mxchim0web13\DolphinSSCOsCam\</Value>
+    </Setting>
+    <Setting Name="VideoTime_2" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="VideoTime_3" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="VideoTime_4" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="VideoTime_5" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="AutoStart" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="EnableTars" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Tars_Customer" Type="System.String" Scope="User">
+      <Value Profile="(Default)">NCR</Value>
+    </Setting>
+    <Setting Name="Tars_Equipment" Type="System.String" Scope="User">
+      <Value Profile="(Default)">AVIDE01ST01</Value>
+    </Setting>
+    <Setting Name="Tars_Process" Type="System.String" Scope="User">
+      <Value Profile="(Default)">VIDEO VALIDATION</Value>
+    </Setting>
+    <Setting Name="Tars_Assembly" Type="System.String" Scope="User">
+      <Value Profile="(Default)">6684</Value>
+    </Setting>
+    <Setting Name="Tars_Path" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\\MXCHIM0MIDFIL01\iFactory\STG\</Value>
+    </Setting>
+    <Setting Name="Step_validation" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Step_Buttonup" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Step_AccessoriesInp" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="iFactoryInfo" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="XML_Path" Type="System.String" Scope="User">
+      <Value Profile="(Default)">c:\videos\</Value>
+    </Setting>
+    <Setting Name="EnableXML" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="CheckParser" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ParserName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">NCRPreParserimage</Value>
+    </Setting>
+    <Setting Name="QualityAlert" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
